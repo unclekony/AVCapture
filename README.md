@@ -1,2 +1,4 @@
 # AudioCapture
-Directshow下音频采集输出PCM
+运用Directshow进行音视频采集
+
+AudioCapture进行音频采集输出PCM文件
